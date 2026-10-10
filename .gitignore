@@ -1,0 +1,37 @@
+# Configuration
+config.inc.php
+
+# Data & Uploads
+public/
+files/
+uploads/
+ojs_files/
+
+# Cache
+cache/
+*.php~
+*.tpl~
+*.css~
+*.js~
+
+# Logs and DB
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+*.bak
+*.tmp
+
+# OS specific
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDEs
+.idea/
+.vscode/
+
+# Dependencies
+node_modules/
+vendor/
